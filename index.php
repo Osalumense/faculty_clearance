@@ -88,7 +88,7 @@ session_start();
       <!--footer start-->
       <footer class="site-footer">
           <div class="text-center">
-              &copy 2019 UNIBEN 
+              &copy 2023 UNIBEN 
               <a href="index.html#" class="go-top">
                   <i class="fa fa-angle-up"></i>
               </a>
